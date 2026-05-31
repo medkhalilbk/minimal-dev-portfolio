@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-page text-dark antialiased;
+  }
+}
+
+@layer components {
+  .page-wrap {
+    @apply mx-auto max-w-3xl px-4 py-10 sm:px-6;
+  }
+
+  .section-card {
+    @apply mb-6 rounded-lg border border-line bg-white px-8 py-7 shadow-card;
+  }
+
+  .section-heading {
+    @apply mb-5 text-2xl font-bold text-black;
+  }
+
+  .nav-pill {
+    @apply rounded border border-black px-3 py-1.5 text-sm text-black transition-colors hover:bg-linkedin/10 hover:border-linkedin hover:text-linkedin;
+  }
+
+  .resume-btn {
+    @apply rounded border border-linkedin bg-linkedin px-5 py-2 text-sm font-semibold text-white transition-colors hover:bg-[#005f8f];
+  }
+
+  .skill-row {
+    @apply border-b border-line py-3 text-sm leading-relaxed last:border-0;
+  }
+
+  .skill-label {
+    @apply font-semibold text-black;
+  }
+}

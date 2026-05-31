@@ -1,0 +1,29 @@
+{
+  "title": "Contact",
+  "items": [
+    {
+      "id": "email",
+      "label": "Email",
+      "value": "medkhalilbenkhelil@gmail.com",
+      "href": "mailto:medkhalilbenkhelil@gmail.com"
+    },
+    {
+      "id": "whatsapp",
+      "label": "WhatsApp",
+      "value": "+216 53 808 864",
+      "href": "https://wa.me/21653808864"
+    },
+    {
+      "id": "linkedin",
+      "label": "LinkedIn",
+      "value": "linkedin.com/in/medkhalilbenkhelil",
+      "href": "https://www.linkedin.com/in/medkhalilbenkhelil/"
+    },
+    {
+      "id": "location",
+      "label": "Localisation",
+      "value": "Tunis, Tunisie",
+      "href": null
+    }
+  ]
+}

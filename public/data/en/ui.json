@@ -1,0 +1,15 @@
+{
+  "languageGate": {
+    "title": "Choose your language",
+    "subtitle": "Select a language to view the portfolio",
+    "english": "English",
+    "french": "Français"
+  },
+  "labels": {
+    "stack": "Stack:",
+    "visitSite": "Visit site",
+    "github": "GitHub",
+    "loadError": "Failed to load portfolio:",
+    "language": "Language"
+  }
+}

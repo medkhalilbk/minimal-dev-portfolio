@@ -1,0 +1,29 @@
+{
+  "title": "Education",
+  "items": [
+    {
+      "id": "edu-master",
+      "degree": "Master's degree, Mobile Application Development",
+      "institution": "Higher Institute of Technological Studies of Rades (ISET Rades)",
+      "period": "Oct 2023 – Nov 2025"
+    },
+    {
+      "id": "edu-bachelor",
+      "degree": "Bachelor's degree, Information Technology",
+      "institution": "Higher Institute of Technological Studies of Rades (ISET Rades)",
+      "period": "2020 – 2023"
+    },
+    {
+      "id": "cred-hashgraph",
+      "degree": "Hashgraph Developer",
+      "institution": "The Hashgraph Association",
+      "period": "Aug 2025"
+    },
+    {
+      "id": "cred-google-play",
+      "degree": "Google Play Academy – Store Listing Certificate",
+      "institution": "Google Play",
+      "period": "Dec 2024 – Dec 2027"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Formation",
+  "items": [
+    {
+      "id": "edu-master",
+      "degree": "Master, Développement d'applications mobiles",
+      "institution": "Institut Supérieur des Études Technologiques de Radès (ISET Radès)",
+      "period": "Oct 2023 – Nov 2025"
+    },
+    {
+      "id": "edu-bachelor",
+      "degree": "Licence, Technologies de l'information",
+      "institution": "Institut Supérieur des Études Technologiques de Radès (ISET Radès)",
+      "period": "2020 – 2023"
+    },
+    {
+      "id": "cred-hashgraph",
+      "degree": "Hashgraph Developer",
+      "institution": "The Hashgraph Association",
+      "period": "Août 2025"
+    },
+    {
+      "id": "cred-google-play",
+      "degree": "Google Play Academy – Certificat Store Listing",
+      "institution": "Google Play",
+      "period": "Déc 2024 – Déc 2027"
+    }
+  ]
+}

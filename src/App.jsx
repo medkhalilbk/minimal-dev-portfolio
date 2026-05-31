@@ -58,6 +58,17 @@ export default function App() {
     document.documentElement.lang = locale || 'en';
   }, [locale]);
 
+  useEffect(() => {
+    if (!portfolio?.ui?.meta) return;
+
+    document.title = portfolio.ui.meta.title;
+
+    let descriptionTag = document.querySelector('meta[name="description"]');
+    if (descriptionTag) {
+      descriptionTag.setAttribute('content', portfolio.ui.meta.description);
+    }
+  }, [portfolio]);
+
   if (!locale) {
     return <LanguageGate onSelect={setLocale} />;
   }

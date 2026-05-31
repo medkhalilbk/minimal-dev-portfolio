@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "title": "Khalil Benkhelil | Full Stack Engineer",
+    "description": "Portfolio of Khalil Benkhelil — Full Stack Engineer specializing in React Native, NestJS, Supabase, and scalable web & mobile products."
+  },
   "languageGate": {
     "title": "Choose your language",
     "subtitle": "Select a language to view the portfolio",

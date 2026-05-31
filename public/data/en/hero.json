@@ -4,10 +4,5 @@
   "photo": "/images/profile.png",
   "photoAlt": "Khalil Benkhelil",
   "summaryTitle": "Summary",
-  "summary": "Full-stack engineer with experience across web and mobile products — from React Native and Supabase apps to React, Vite, and NestJS platforms. Background in software infrastructure, production releases, and building scalable solutions for startups and agencies in Tunisia and remote teams worldwide.",
-  "resume": {
-    "label": "Download Resume",
-    "href": "/resume-en.pdf",
-    "fileName": "Khalil-Benkhelil-Resume-EN.pdf"
-  }
+  "summary": "Full-stack engineer with experience across web and mobile products — from React Native and Supabase apps to React, Vite, and NestJS platforms. Background in software infrastructure, production releases, and building scalable solutions for startups and agencies in Tunisia and remote teams worldwide."
 }

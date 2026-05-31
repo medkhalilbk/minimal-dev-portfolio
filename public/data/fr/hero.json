@@ -6,8 +6,7 @@
   "summaryTitle": "Résumé",
   "summary": "Ingénieur full stack avec une expérience en produits web et mobile — des applications React Native et Supabase aux plateformes React, Vite et NestJS. Expérience en infrastructure logicielle, mises en production et solutions scalables pour des startups et agences en Tunisie et des équipes remote dans le monde entier.",
   "resume": {
-    "label": "Télécharger le CV",
-    "href": "/resume-fr.pdf",
-    "fileName": "Khalil-Benkhelil-CV-FR.pdf"
+    "label": "Voir le CV",
+    "href": "https://drive.google.com/file/d/1tArh7WpdusH0W29CFjktnEAnJLXCHSyd/view?usp=sharing"
   }
 }

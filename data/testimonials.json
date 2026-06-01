@@ -1,0 +1,34 @@
+{
+  "label": "Testimonials",
+  "title": "What Clients Say",
+  "items": [
+    {
+      "id": "test-1",
+      "text": "Khalil delivered our MVP ahead of schedule with exceptional quality. His attention to detail and proactive communication made the entire process seamless.",
+      "name": "Sarah Mitchell",
+      "role": "CEO, TechVentures Inc.",
+      "avatar": "SM"
+    },
+    {
+      "id": "test-2",
+      "text": "Working with Khalil was a game-changer for our product. He transformed our rough ideas into a polished, scalable platform that our users love.",
+      "name": "James Rodriguez",
+      "role": "Product Lead, Digital Studio",
+      "avatar": "JR"
+    },
+    {
+      "id": "test-3",
+      "text": "His full-stack expertise saved us months of development time. Khalil doesn't just write code — he thinks about the business impact of every decision.",
+      "name": "Emily Chen",
+      "role": "Founder, StartupLab",
+      "avatar": "EC"
+    },
+    {
+      "id": "test-4",
+      "text": "Outstanding UI/UX work combined with solid engineering. Khalil bridged the gap between our design team and backend developers flawlessly.",
+      "name": "David Park",
+      "role": "Design Director, Creative Co.",
+      "avatar": "DP"
+    }
+  ]
+}

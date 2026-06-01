@@ -1,0 +1,16 @@
+{
+  "title": "Personal Projects",
+  "items": [
+    {
+      "id": "proj-coachhub",
+      "title": "CoachHub",
+      "logo": "/logos/coachhub.png",
+      "description": "A personal trainer platform that turns coaching into a digital business — manage clients, workout programs, nutrition plans, progress tracking, and payments from a single system. Built with a microservices architecture, deployed on Linux with Nginx.",
+      "tags": ["React Native", "NestJS", "Microservices", "Linux", "Nginx"],
+      "links": {
+        "demo": "https://www.coachub.app",
+        "github": null
+      }
+    }
+  ]
+}

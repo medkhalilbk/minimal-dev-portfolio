@@ -1,0 +1,12 @@
+{
+  "logo": {
+    "text": "KB",
+    "href": "#home"
+  },
+  "copyright": "© 2025 Khalil Benkhelil. All rights reserved.",
+  "socials": [
+    { "label": "GitHub", "href": "https://github.com", "icon": "github" },
+    { "label": "LinkedIn", "href": "https://linkedin.com", "icon": "linkedin" },
+    { "label": "Twitter", "href": "https://twitter.com", "icon": "twitter" }
+  ]
+}

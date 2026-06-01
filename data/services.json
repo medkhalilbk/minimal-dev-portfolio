@@ -1,0 +1,43 @@
+{
+  "label": "Services",
+  "title": "Engineering products that scale from zero to millions",
+  "description": "From early-stage MVPs to high-traffic platforms, I design and build systems that grow with your business — without sacrificing speed, quality, or user experience.",
+  "items": [
+    {
+      "id": "web-dev",
+      "icon": "code",
+      "title": "Web Development",
+      "description": "Full-stack web applications with React, Node.js, and modern cloud infrastructure."
+    },
+    {
+      "id": "ui-ux",
+      "icon": "palette",
+      "title": "UI/UX Design",
+      "description": "User-centered interfaces that are intuitive, accessible, and visually polished."
+    },
+    {
+      "id": "product-strategy",
+      "icon": "target",
+      "title": "Product Strategy",
+      "description": "Roadmap planning, feature prioritization, and go-to-market alignment."
+    },
+    {
+      "id": "system-design",
+      "icon": "layers",
+      "title": "System Design",
+      "description": "Scalable architectures, API design, and performance optimization."
+    },
+    {
+      "id": "mobile",
+      "icon": "smartphone",
+      "title": "Mobile Development",
+      "description": "Cross-platform mobile apps with React Native and Flutter."
+    },
+    {
+      "id": "devops",
+      "icon": "cloud",
+      "title": "DevOps & Cloud",
+      "description": "CI/CD pipelines, containerization, and cloud deployment on AWS & GCP."
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "title": "Professional Experience",
+  "items": [
+    {
+      "id": "exp-bitcall",
+      "company": "Bitcall.io",
+      "url": "https://bitcall.io",
+      "logo": "/logos/bitcall.png",
+      "role": "Full Stack Engineer",
+      "location": "Remote",
+      "period": "Sep 2025 – Present",
+      "highlights": [
+        "Software infrastructure and full-stack development"
+      ]
+    },
+    {
+      "id": "exp-launchgood",
+      "company": "LaunchGood",
+      "url": "https://www.launchgood.com",
+      "appLink": {
+        "label": "Sila Network on App Store",
+        "href": "https://apps.apple.com/us/app/sila-network/id6475728219"
+      },
+      "logo": "/logos/launchgood.svg",
+      "role": "Part-time Contractor",
+      "location": "Remote",
+      "period": "Feb 2025 – May 2025",
+      "highlights": [
+        "Part-time contractor helping push Sila to production",
+        "Built and integrated features using React Native and Supabase",
+        "Fixed bugs and assisted clients in debugging and resolving their issues"
+      ]
+    },
+    {
+      "id": "exp-defendr",
+      "company": "Defendr.gg",
+      "url": "https://defendr.gg",
+      "logo": "/logos/defendr.png",
+      "role": "Mobile Application Developer",
+      "location": "Tunis, Tunisia · Hybrid",
+      "period": "Feb 2025 – Nov 2025",
+      "highlights": [
+        "Mobile application development during internship on the Defendr.gg platform",
+        "Enhanced backend and optimization",
+        "Added pub/sub architecture for reliable async job processing",
+        "Worked on microservices architecture, token systems, and Web3 integration"
+      ]
+    },
+    {
+      "id": "exp-maker-skills",
+      "company": "Maker Skills",
+      "url": "https://www.makerskills.tn",
+      "logo": "/logos/makerskills.png",
+      "role": "Full Stack Engineer",
+      "location": "Tunis, Tunisia · Remote",
+      "period": "Jun 2025 – Aug 2025",
+      "highlights": [
+        "Development of a dynamic website for an IoT training center",
+        "Implementation of an online shop and order management system",
+        "Built a training participation system with dynamic, manageable content",
+        "Delivered a modern project combining innovation and performance with React, Vite, and NestJS"
+      ]
+    },
+    {
+      "id": "exp-pikoro",
+      "company": "Pikoro",
+      "url": "https://www.linkedin.com/company/pikoro/about/",
+      "logo": "/logos/pikoro.png",
+      "role": "Software Developer",
+      "location": "Tunisia · Remote",
+      "period": "Jan 2024 – Aug 2024",
+      "highlights": [
+        "Transformed a web-based platform into a cross-platform mobile application using React Native and Laravel",
+        "Collaborated with product owners to enable real-time truck driver tracking and client position mapping",
+        "Leveraged ExpressJS to provide driving directions for drivers"
+      ]
+    },
+    {
+      "id": "exp-slide",
+      "company": "Slide",
+      "url": "https://www.slide-money.com",
+      "logo": "/logos/slide.png",
+      "role": "Full-stack Developer",
+      "location": "Remote",
+      "period": "Feb 2023 – Jul 2023",
+      "highlights": [
+        "Internship working closely with the tech lead on React Native and ExpressJS",
+        "Strengthened fundamentals in mobile development, backend APIs, and production workflows",
+        "Gained hands-on experience in a fast-paced startup environment"
+      ]
+    }
+  ]
+}

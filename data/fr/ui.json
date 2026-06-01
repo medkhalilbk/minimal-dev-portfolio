@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Khalil Benkhelil | Ingénieur Full Stack",
+    "description": "Portfolio de Khalil Benkhelil — Ingénieur Full Stack spécialisé en React Native, NestJS, Supabase et produits web & mobile scalables."
+  },
+  "languageGate": {
+    "title": "Choisissez votre langue",
+    "subtitle": "Sélectionnez une langue pour voir le portfolio",
+    "english": "English",
+    "french": "Français"
+  },
+  "labels": {
+    "stack": "Stack :",
+    "visitSite": "Visiter le site",
+    "github": "GitHub",
+    "loadError": "Échec du chargement du portfolio :",
+    "language": "Langue"
+  }
+}

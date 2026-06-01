@@ -1,0 +1,93 @@
+{
+  "title": "Expérience professionnelle",
+  "items": [
+    {
+      "id": "exp-bitcall",
+      "company": "Bitcall.io",
+      "url": "https://bitcall.io",
+      "logo": "/logos/bitcall.png",
+      "role": "Ingénieur Full Stack",
+      "location": "À distance",
+      "period": "Sep 2025 – Présent",
+      "highlights": [
+        "Infrastructure logicielle et développement full stack"
+      ]
+    },
+    {
+      "id": "exp-launchgood",
+      "company": "LaunchGood",
+      "url": "https://www.launchgood.com",
+      "appLink": {
+        "label": "Sila Network sur l'App Store",
+        "href": "https://apps.apple.com/us/app/sila-network/id6475728219"
+      },
+      "logo": "/logos/launchgood.svg",
+      "role": "Contractant à temps partiel",
+      "location": "À distance",
+      "period": "Fév 2025 – Mai 2025",
+      "highlights": [
+        "Contractant à temps partiel pour la mise en production de Sila",
+        "Développement et intégration de fonctionnalités avec React Native et Supabase",
+        "Correction de bugs et assistance aux clients pour résoudre leurs problèmes"
+      ]
+    },
+    {
+      "id": "exp-defendr",
+      "company": "Defendr.gg",
+      "url": "https://defendr.gg",
+      "logo": "/logos/defendr.png",
+      "role": "Développeur d'applications mobiles",
+      "location": "Tunis, Tunisie · Hybride",
+      "period": "Fév 2025 – Nov 2025",
+      "highlights": [
+        "Développement d'applications mobiles en stage sur la plateforme Defendr.gg",
+        "Amélioration du backend et optimisation",
+        "Mise en place d'une architecture pub/sub pour un traitement asynchrone fiable",
+        "Travail sur l'architecture microservices, les systèmes de tokens et l'intégration Web3"
+      ]
+    },
+    {
+      "id": "exp-maker-skills",
+      "company": "Maker Skills",
+      "url": "https://www.makerskills.tn",
+      "logo": "/logos/makerskills.png",
+      "role": "Ingénieur Full Stack",
+      "location": "Tunis, Tunisie · À distance",
+      "period": "Juin 2025 – Août 2025",
+      "highlights": [
+        "Développement d'un site dynamique pour un centre de formation IoT",
+        "Mise en place d'une boutique en ligne et d'un système de gestion des commandes",
+        "Création d'un système de participation aux formations avec contenu dynamique",
+        "Projet moderne alliant innovation et performance avec React, Vite et NestJS"
+      ]
+    },
+    {
+      "id": "exp-pikoro",
+      "company": "Pikoro",
+      "url": "https://www.linkedin.com/company/pikoro/about/",
+      "logo": "/logos/pikoro.png",
+      "role": "Développeur logiciel",
+      "location": "Tunisie · À distance",
+      "period": "Jan 2024 – Août 2024",
+      "highlights": [
+        "Transformation d'une plateforme web en application mobile cross-platform avec React Native et Laravel",
+        "Collaboration avec les product owners pour le suivi en temps réel des chauffeurs et la cartographie des clients",
+        "Utilisation d'ExpressJS pour fournir des itinéraires aux chauffeurs"
+      ]
+    },
+    {
+      "id": "exp-slide",
+      "company": "Slide",
+      "url": "https://www.slide-money.com",
+      "logo": "/logos/slide.png",
+      "role": "Développeur Full Stack",
+      "location": "À distance",
+      "period": "Fév 2023 – Juil 2023",
+      "highlights": [
+        "Stage en collaboration étroite avec le tech lead sur React Native et ExpressJS",
+        "Renforcement des fondamentaux en développement mobile, APIs backend et workflows de production",
+        "Expérience pratique dans un environnement startup dynamique"
+      ]
+    }
+  ]
+}

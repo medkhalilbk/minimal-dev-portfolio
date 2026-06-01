@@ -1,0 +1,16 @@
+{
+  "title": "Projets personnels",
+  "items": [
+    {
+      "id": "proj-coachhub",
+      "title": "CoachHub",
+      "logo": "/logos/coachhub.png",
+      "description": "Plateforme pour coachs sportifs qui transforme le coaching en business digital — gestion des clients, programmes d'entraînement, plans nutritionnels, suivi des progrès et paiements depuis un seul système. Architecture microservices, déployée sur Linux avec Nginx.",
+      "tags": ["React Native", "NestJS", "Microservices", "Linux", "Nginx"],
+      "links": {
+        "demo": "https://www.coachub.app",
+        "github": null
+      }
+    }
+  ]
+}

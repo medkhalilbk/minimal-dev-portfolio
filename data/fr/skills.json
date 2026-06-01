@@ -1,0 +1,35 @@
+{
+  "title": "Compétences techniques",
+  "categories": [
+    {
+      "id": "languages",
+      "label": "Langages de programmation",
+      "skills": ["JavaScript", "TypeScript", "Python", "SQL", "HTML/CSS"]
+    },
+    {
+      "id": "frameworks",
+      "label": "Frameworks & UI",
+      "skills": ["React", "React Native", "Next.js", "NestJS", "Angular", "Vite", "Tailwind CSS"]
+    },
+    {
+      "id": "mobile",
+      "label": "Développement mobile",
+      "skills": ["React Native", "Développement iOS", "Développement Android", "Expo"]
+    },
+    {
+      "id": "backend",
+      "label": "Backend & Données",
+      "skills": ["Node.js", "ExpressJS", "Laravel", "Supabase", "PostgreSQL", "REST APIs"]
+    },
+    {
+      "id": "infra",
+      "label": "Infrastructure logicielle",
+      "skills": ["Conception logicielle", "Développement Full-Stack", "WordPress", "Git", "Docker"]
+    },
+    {
+      "id": "tools",
+      "label": "Autres outils",
+      "skills": ["GitHub", "Figma", "Postman", "VS Code", "Google Play Console"]
+    }
+  ]
+}

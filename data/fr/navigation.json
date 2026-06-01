@@ -1,0 +1,10 @@
+{
+  "sections": [
+    { "label": "Résumé", "href": "#summary" },
+    { "label": "Compétences techniques", "href": "#skills" },
+    { "label": "Expérience professionnelle", "href": "#experience" },
+    { "label": "Formation", "href": "#education" },
+    { "label": "Projets personnels", "href": "#projects" },
+    { "label": "Contact", "href": "#contact" }
+  ]
+}
